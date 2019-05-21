@@ -1,4 +1,4 @@
-![WhirlyGlobe-Maply](/images/banner.jpg)
+![WhirlyGlobe-Maply](/common/images/banner.jpg)
 
 What is WhirlyGlobe-Maply?
 ---
